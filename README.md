@@ -6,7 +6,7 @@ option:<br>
   -A: use ALPHABET {ABCDEFGHIJKLMNOPQRSTUVWXYZ}.<br>
   -0: use number {0123456789}.<br>
   -&#95;: use symbol {!&quot;#$%&amp;'()*+,-./:;&lt;=&gt;?@[]^&#95;&#39;{|}~}. <b>*'\' is not used*</b><br>
-  -n number: set password length to number<br>
+  -n number: set password length at number<br>
   default:use all charcters and length is 10.<br>
   
 sample:<br>

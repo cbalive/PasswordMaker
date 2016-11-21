@@ -1,15 +1,15 @@
 # PasswordMaker
 Merely password maker
 
-option:
-  -a: use alphabet {abcdefghijklmnopqrstuvwxyz}.
-  -A: use ALPHABET {ABCDEFGHIJKLMNOPQRSTUVWXYZ}.
-  -0: use number {0123456789}.
-  -_: use symbol {!"#$%&'()*+,-./:;<=>?@[]^_`{|}~}. <b>'\' is not used</b>
-  -n number: set password length to number
-  default:use all charcters and length is 10.
+option:<br>
+  -a: use alphabet {abcdefghijklmnopqrstuvwxyz}.<br>
+  -A: use ALPHABET {ABCDEFGHIJKLMNOPQRSTUVWXYZ}.<br>
+  -0: use number {0123456789}.<br>
+  -_: use symbol {!&quot;#$%&amp;'()*+,-./:;	&lt;=&gt;?&copy;[]^_`{|}~}. <b>'\' is not used</b><br>
+  -n number: set password length to number<br>
+  default:use all charcters and length is 10.<br>
   
-sample:
+sample:<br>
 C:\>PasswordMaker
 ,S[F?KWE5>
 

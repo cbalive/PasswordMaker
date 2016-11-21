@@ -20,4 +20,4 @@ C:&#92;&gt;PasswordMaker -a0 <br>
 yjqd0ncogl<br>
 
 C:&#92;&gt;PasswordMaker -A0&#95;n 64<br>
-U@*)=C?D5V&amp;lt;H8I9*~Q/!EUC|3?&quot;0^#5:QMCI9{TC.(ZM&amp;lt;QD(7?T|~0.&#95;?G770*U&#95;<br>
+U@*)=C?D5V&amp;lt;H8I9*~Q/!EUC|3?&quot;0^#5:QMCI9{TC.(ZM&amp;&lt;QD(7?T|~0.&#95;?G770*U&#95;<br>

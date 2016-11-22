@@ -39,13 +39,13 @@ int main(int argc, char *argv[])
                 int length;
                 length = atoi(optarg);
                 if(atoi(optarg) <= 0){
-                    printf("Usage: %s [-a] [-A] [-0] [-n number]", argv[0]);
+                    printf("Usage: %s [-a] [-A] [-0] [-_] [-n number]", argv[0]);
                     return 0;
                 }
                 passLength = length;
                 break;
             default:
-                printf("Usage: %s [-a] [-A] [-0] [-n number]", argv[0]);
+                printf("Usage: %s [-a] [-A] [-0] [-_] [-n number]", argv[0]);
                 return 0;
                 break;
         }
